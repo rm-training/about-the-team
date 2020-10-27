@@ -2,6 +2,7 @@
 
 * [Ryan Morris](./ryan-the-morris.md)
 * [Abhishek](./Abhi.md)
-* <-- add the next name here
+* Abe Lincoln
+* Bad Robot
 
 Thanks for stopping by.
