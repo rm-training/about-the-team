@@ -1,6 +1,6 @@
 # The Team!
 
 * [Ryan Morris](./ryan-the-morris.md)
-* <-- add the next name here
+* Abe Lincoln
 
 Thanks for stopping by.
