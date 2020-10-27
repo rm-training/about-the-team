@@ -1,6 +1,6 @@
 # The Team!
 
 * [Ryan Morris](./ryan-the-morris.md)
-* <-- add the next name here
+* Bad Robot
 
 Thanks for stopping by.
