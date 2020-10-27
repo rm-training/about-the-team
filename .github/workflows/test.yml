@@ -34,3 +34,6 @@ jobs:
           
       - name: Another thing
         run: cat README.md
+        
+      - name: Fail!
+        run: exit 1
